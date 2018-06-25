@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Warcaby:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Warcaby_jar</output-path>
-    <root id="archive" name="Warcaby.jar">
-      <element id="module-output" name="Warcaby" />
-    </root>
-  </artifact>
-</component>
